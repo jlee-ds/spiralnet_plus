@@ -9,3 +9,6 @@ data/*
 
 data/CoMA/*
 !data/CoMA/template/
+
+.DS_Store
+runs
